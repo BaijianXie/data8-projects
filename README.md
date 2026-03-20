@@ -1,25 +1,25 @@
-
 ## Project Overview
 
-### Project 1: Data Analysis
-- **Goal**: Conduct exploratory data analysis (EDA) to understand data patterns and insights.
+### Project 1: Climate Change Analysis
+- **Goal**: Explore and analyze global climate data to understand trends in temperature, CO₂ levels, and other environmental factors.
 - **Highlights**:
   - Data cleaning and preprocessing
-  - Descriptive statistics and visualizations
-  - Extracting actionable insights from data
+  - Descriptive statistics and visualization of climate trends
+  - Extracting meaningful insights from historical datasets
 - **Skills Demonstrated**:
-  - Pandas and Matplotlib/Seaborn for data manipulation and visualization
-  - Structured approach to analyzing complex datasets
+  - Pandas, Matplotlib, and Seaborn for data manipulation and visualization
+  - Structured approach to complex data analysis
 
-### Project 2: Prediction Modeling
-- **Goal**: Build predictive models based on historical data.
+### Project 2: Movie Classification
+- **Goal**: Predict movie genres (comedy vs. thriller) based on screenplay word frequencies.
 - **Highlights**:
-  - Feature engineering and data preprocessing
-  - Classification and regression modeling using scikit-learn
-  - Model evaluation and performance visualization
+  - Feature extraction from text data
+  - Implemented K-Nearest Neighbors (KNN) classification using scikit-learn
+  - Model evaluation and performance assessment
 - **Skills Demonstrated**:
-  - Practical implementation of K-Nearest Neighbors (KNN), linear regression, and other models
-  - Interpreting and communicating predictive results effectively
+  - Text-based feature engineering
+  - Building and evaluating machine learning models
+  - Communicating predictive insights effectively
 
 ## Tech Stack
 - Python 3
@@ -28,4 +28,4 @@
 - Scikit-learn
 
 ## Summary
-These projects strengthened my understanding of the full data science workflow: from data collection and cleaning to analysis, modeling, and interpretation. They showcase my ability to turn raw data into meaningful insights and practical predictive models.
+These projects strengthened my understanding of the full data science workflow: from data cleaning and analysis to predictive modeling and result interpretation. They showcase my ability to derive insights from real-world datasets and build practical predictive models.
