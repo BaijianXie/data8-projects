@@ -1,25 +1,23 @@
-# 🌍 Climate Change Analysis
+Welcome to my project showcase. This repository contains data science projects developed during my Data 8 coursework and beyond. My focus is on transforming raw data into actionable insights through rigorous statistical inference and computational thinking.
 
-## Overview
+🚀 Featured Projects
+📊 Project 1: Exploratory Data Analysis & Statistics
+The Problem: Investigated [e.g., historical mortality rates / economic trends] to identify underlying patterns.
 
-This project explores temperature trends across different cities to better understand patterns related to climate change.
+Key Action: Utilized Hypothesis Testing and A/B Testing to determine if observed differences were statistically significant or due to random chance.
 
-## What I Did
+Outcome: Created detailed visualizations that simplified complex datasets into clear, evidence-based conclusions.
 
-* Analyzed temperature data across multiple locations
-* Created visualizations to identify trends
-* Interpreted long-term changes in climate patterns
+🔮 Project 2: Prediction & Classification
+The Problem: Developed a model to predict [e.g., movie genres / health outcomes] based on specific attributes.
 
-## Key Insight
+Key Action: Implemented a k-Nearest Neighbors (k-NN) classifier from scratch, focusing on feature selection and accuracy optimization.
 
-The data suggests a general increase in temperature over time, consistent with global climate change observations.
+Outcome: Achieved a prediction accuracy of [X]% while minimizing bias in the training set.
 
-## Tools Used
+🛠 Technical Toolkit
+Languages: Python (Pandas, NumPy, Matplotlib)
 
-* Python
-* datascience package
-* matplotlib
+Statistical Concepts: Causality, Probability, Linear Regression, and Bootstrap Resampling.
 
-## Note
-
-This project is inspired by UC Berkeley Data 8 but has been reconstructed for portfolio purposes.
+Workflow: Jupyter Notebooks, Git/GitHub, and Data Cleaning.
