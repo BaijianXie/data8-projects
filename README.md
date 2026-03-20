@@ -1,23 +1,50 @@
-Welcome to my project showcase. This repository contains data science projects developed during my Data 8 coursework and beyond. My focus is on transforming raw data into actionable insights through rigorous statistical inference and computational thinking.
+Project Overview
+Project 1: Data Analysis
 
-🚀 Featured Projects
-📊 Project 1: Exploratory Data Analysis & Statistics
-The Problem: Investigated [e.g., historical mortality rates / economic trends] to identify underlying patterns.
+Goal: Conduct exploratory data analysis (EDA) to understand data patterns and insights.
 
-Key Action: Utilized Hypothesis Testing and A/B Testing to determine if observed differences were statistically significant or due to random chance.
+Highlights:
 
-Outcome: Created detailed visualizations that simplified complex datasets into clear, evidence-based conclusions.
+Data cleaning and preprocessing
 
-🔮 Project 2: Prediction & Classification
-The Problem: Developed a model to predict [e.g., movie genres / health outcomes] based on specific attributes.
+Descriptive statistics and visualizations
 
-Key Action: Implemented a k-Nearest Neighbors (k-NN) classifier from scratch, focusing on feature selection and accuracy optimization.
+Extracting actionable insights from data
 
-Outcome: Achieved a prediction accuracy of [X]% while minimizing bias in the training set.
+Skills Demonstrated:
 
-🛠 Technical Toolkit
-Languages: Python (Pandas, NumPy, Matplotlib)
+Pandas and Matplotlib/Seaborn for data manipulation and visualization
 
-Statistical Concepts: Causality, Probability, Linear Regression, and Bootstrap Resampling.
+Structured approach to analyzing complex datasets
 
-Workflow: Jupyter Notebooks, Git/GitHub, and Data Cleaning.
+Project 2: Prediction Modeling
+
+Goal: Build predictive models based on historical data.
+
+Highlights:
+
+Feature engineering and data preprocessing
+
+Classification and regression modeling using scikit-learn
+
+Model evaluation and performance visualization
+
+Skills Demonstrated:
+
+Practical implementation of K-Nearest Neighbors (KNN), linear regression, and other models
+
+Interpreting and communicating predictive results effectively
+
+Tech Stack
+
+Python 3
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+Summary
+
+These projects strengthened my understanding of the full data science workflow: from data collection and cleaning to analysis, modeling, and interpretation. They showcase my ability to turn raw data into meaningful insights and practical predictive models.
